@@ -3,5 +3,6 @@ Dia 0
 - Instalacion de herramientas
 - Pensamiento computacional
 - Taller GitHub
+
 Dia 1
 - Fundamentos de Python
